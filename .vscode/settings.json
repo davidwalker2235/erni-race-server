@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/70e356bf-9061-41cb-8a82-d3fe0361603b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/erni-race-server",
+    "appService.deploySubpath": "."
+}
